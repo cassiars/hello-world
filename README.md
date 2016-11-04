@@ -1,2 +1,3 @@
 # hello-world
-Gettin started
+
+Here's the text that Cassia wrote. Here's the thoughts that were had.
